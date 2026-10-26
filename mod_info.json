@@ -1,0 +1,17 @@
+{
+    "name": "Prime N' Lucky Numbers",
+    "no_marquee": true,
+    "id": "PotatoPatchUtils",
+    "version": "1.0.13",
+    "website_url": "https://github.com/Balatro-Potato-Patch/Potato-Patch-Utils",
+    "description": "Mod that adds two big tables of prime and lucky numbers.",
+    "prefix": "pnl",
+    "author": ["Soulware"],
+    "main_file": "main.lua",
+    "priority": -5,
+    "badge_colour": "#FFFFFF",
+    "dependencies": [
+
+    ],
+	"allow_redistribution": true
+}
